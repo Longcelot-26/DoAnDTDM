@@ -1,0 +1,58 @@
+[2026-04-29 01:08:38] INFO | shop_logger.setup_logger():238
+MSG  : Logger khởi động — thư mục log: /home/claude/logs
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.setup_logger():239
+MSG  : Máy chủ: runsc | PID: 46
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.generate_test_logs():407
+MSG  : Server URBANSTORE khởi động thành công
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.generate_test_logs():408
+MSG  : Database loaded: 12 sản phẩm, 3 users, 5 đơn hàng
+DATA : {"products": 12, "users": 3, "orders": 5}
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.generate_test_logs():411
+MSG  : GET /products 200 | 127.0.0.1 | user=khachhang1
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.generate_test_logs():412
+MSG  : POST /checkout 200 | 192.168.1.5 | user=trang_dep | total=970000
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] INFO | shop_logger.generate_test_logs():413
+MSG  : GET /admin 200 | 127.0.0.1 | is_admin=True
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] WARNING | shop_logger.generate_test_logs():415
+MSG  : Sản phẩm p010 sắp hết hàng: còn 2
+DATA : {"pid": "p010", "stock": 2}
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] WARNING | shop_logger.generate_test_logs():417
+MSG  : Đăng nhập thất bại 3 lần liên tiếp
+DATA : {"ip": "203.0.113.55", "username": "unknown"}
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] ERROR | shop_logger.generate_test_logs():424
+MSG  : KeyError khi đọc dữ liệu sản phẩm: 'missing_key'
+DATA : {"pid": "p099", "route": "product_detail"}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 422, in generate_test_logs
+    _ = data["missing_key"]
+        ~~~~^^^^^^^^^^^^^^^
+KeyError: 'missing_key'
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] ERROR | shop_logger.generate_test_logs():431
+MSG  : Không thể ghi database: Permission denied: './shop_db.json'
+DATA : {"file": "shop_db.json", "action": "save_db"}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 429, in generate_test_logs
+    raise PermissionError("Permission denied: './shop_db.json'")
+PermissionError: Permission denied: './shop_db.json'
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] CRITICAL | shop_logger.generate_test_logs():438
+MSG  : Server không thể khởi động: OSError: [Errno 98] Address already in use
+DATA : {"port": 5000}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 436, in generate_test_logs
+    raise ConnectionError("OSError: [Errno 98] Address already in use")
+ConnectionError: OSError: [Errno 98] Address already in use
+────────────────────────────────────────────────────────────

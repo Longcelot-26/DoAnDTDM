@@ -1,0 +1,84 @@
+2026-05-05 08:02:14 | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2026-05-05 08:02:14 | [33mPress CTRL+C to quit[0m
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "GET / HTTP/1.1" 200 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean1_.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean2.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean3.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean6.jpg HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean7.jpg HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /imgs/bean10.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:22 | 127.0.0.1 - - [05/May/2026 08:02:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "GET / HTTP/1.1" 200 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean1_.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean2.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean3.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean6.jpg HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean7.jpg HTTP/1.1[0m" 404 -
+2026-05-05 08:02:33 | 127.0.0.1 - - [05/May/2026 08:02:33] "[33mGET /imgs/bean10.webp HTTP/1.1[0m" 404 -
+2026-05-05 08:04:31 | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2026-05-05 08:04:31 | [33mPress CTRL+C to quit[0m
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET / HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean7.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:04:42 | 127.0.0.1 - - [05/May/2026 08:04:42] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /products HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean7.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean4.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean8.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean9.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean11.webp HTTP/1.1" 200 -
+2026-05-05 08:04:53 | 127.0.0.1 - - [05/May/2026 08:04:53] "GET /imgs/bean12.webp HTTP/1.1" 200 -
+2026-05-05 08:04:55 | 127.0.0.1 - - [05/May/2026 08:04:55] "GET /orders HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET / HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean7.jpg HTTP/1.1" 200 -
+2026-05-05 08:04:58 | 127.0.0.1 - - [05/May/2026 08:04:58] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:08:40 | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2026-05-05 08:08:40 | [33mPress CTRL+C to quit[0m
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET / HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:08:49 | 127.0.0.1 - - [05/May/2026 08:08:49] "GET /imgs/bean7.jpg HTTP/1.1" 200 -
+2026-05-05 08:10:56 | 127.0.0.1 - - [05/May/2026 08:10:56] "GET /cart HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET / HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean7.jpg HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:11:02 | 127.0.0.1 - - [05/May/2026 08:11:02] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:12:21 | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2026-05-05 08:12:21 | [33mPress CTRL+C to quit[0m
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET / HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean3.webp HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean10.webp HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean6.jpg HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean1_.webp HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean2.webp HTTP/1.1" 200 -
+2026-05-05 08:12:31 | 127.0.0.1 - - [05/May/2026 08:12:31] "GET /imgs/bean7.jpg HTTP/1.1" 200 -

@@ -1,0 +1,28 @@
+[2026-04-29 01:08:38] ERROR | shop_logger.generate_test_logs():424
+MSG  : KeyError khi đọc dữ liệu sản phẩm: 'missing_key'
+DATA : {"pid": "p099", "route": "product_detail"}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 422, in generate_test_logs
+    _ = data["missing_key"]
+        ~~~~^^^^^^^^^^^^^^^
+KeyError: 'missing_key'
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] ERROR | shop_logger.generate_test_logs():431
+MSG  : Không thể ghi database: Permission denied: './shop_db.json'
+DATA : {"file": "shop_db.json", "action": "save_db"}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 429, in generate_test_logs
+    raise PermissionError("Permission denied: './shop_db.json'")
+PermissionError: Permission denied: './shop_db.json'
+────────────────────────────────────────────────────────────
+[2026-04-29 01:08:38] CRITICAL | shop_logger.generate_test_logs():438
+MSG  : Server không thể khởi động: OSError: [Errno 98] Address already in use
+DATA : {"port": 5000}
+TRACE:
+Traceback (most recent call last):
+  File "/home/claude/shop_logger.py", line 436, in generate_test_logs
+    raise ConnectionError("OSError: [Errno 98] Address already in use")
+ConnectionError: OSError: [Errno 98] Address already in use
+────────────────────────────────────────────────────────────

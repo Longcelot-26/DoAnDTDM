@@ -1,0 +1,230 @@
+{
+  "users": {
+    "Longcelot": {
+      "pw": "scrypt:32768:8:1$4mS8QROwKzsLaYMq$4a79264806fbb8898b08f42d1355214a085a3bb484230882e617796dbeac2342b9373abcf8b21cd66b3122d497cfc393635254ad93dafa490e2acb05f50da82b",
+      "created": 1778034912
+    }
+  },
+  "orders": [],
+  "products": [
+    {
+      "id": "p001",
+      "name": "[Chính hãng] Thú bông Chubby Lung — Bộ 3 Nian · Chongyue · Dusk (龙泡泡毛绒玩偶 #17)",
+      "price": 980000,
+      "original_price": 1200000,
+      "category": "thubong",
+      "stock": 15,
+      "sold": 213,
+      "image": "",
+      "img_file": "bean1_.webp",
+      "desc": "Bộ 3 thú bông Chubby Lung tiêu chuẩn ra mắt lần đầu, gồm Nian (trắng - đỏ, biểu cảm tinh nghịch), Chongyue (xám đậm, chuỗi hạt gỗ đặc trưng + tua rua xám), và Dusk (xám xanh, móc đỏ mini). Vải bông mềm mịn cao cấp, nhân bông PP đàn hồi tốt, giữ form tròn đẹp. Chuẩn tag chính hãng CHOEARTH × Hypergryph. Kích thước ~20cm.",
+      "tags": [
+        "hot",
+        "bán chạy"
+      ],
+      "nhan_vat": "Nian · Chongyue · Dusk",
+      "kich_thuoc": "~20cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p002",
+      "name": "[Chính hãng CHOEARTH] Thú bông Chubby Lung — Shu (泰VER.) 龙泡泡毛绒玩偶",
+      "price": 650000,
+      "original_price": 780000,
+      "category": "thubong",
+      "stock": 18,
+      "sold": 97,
+      "image": "",
+      "img_file": "bean2.webp",
+      "desc": "Phiên bản Shu (Thục) — em út nhà Sui với tông màu trắng kem - vàng óng đặc trưng. Sừng gradient vàng - xanh tím cực kỳ đặc sắc, đuôi nơ xanh tím bồng bềnh phía sau. Gương mặt mang biểu cảm 'ngái ngủ' lười biếng đúng chất Shu. Chất vải Spandex mịn, bông PP cao cấp giữ form tròn hoàn hảo. Kích thước ~20cm — chuẩn chính hãng CHOEARTH 朝陇山.",
+      "tags": [
+        "mới",
+        "hot"
+      ],
+      "nhan_vat": "Shu (泰)",
+      "kich_thuoc": "~20cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p003",
+      "name": "[Chính hãng] CHOEARTH Ball — Bộ 4 Nian · Ling · Dusk · Chongyue (Dạng Cupcake)",
+      "price": 1200000,
+      "original_price": 1500000,
+      "category": "thubong",
+      "stock": 10,
+      "sold": 154,
+      "image": "",
+      "img_file": "bean3.webp",
+      "desc": "Dòng CHOEARTH Ball phiên bản Cupcake độc đáo — 4 anh chị em nhà Sui được thiết kế ngồi gọn trong ly cupcake thêu tên riêng. Nian (đỏ - trắng, nền cam rực), Ling (xanh dương, nền tím), Dusk (xám xanh teal, nền đen), Chongyue (xám đậm, chuỗi hạt + tua rua, nền đen cam). Mỗi nhân vật có biểu cảm mắt đặc trưng khác nhau. Set 4 món, đóng hộp đẹp — lý tưởng để trưng bày hoặc tặng quà.",
+      "tags": [
+        "hot",
+        "bán chạy"
+      ],
+      "nhan_vat": "Nian · Ling · Dusk · Chongyue",
+      "kich_thuoc": "~12cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p004",
+      "name": "[Chính hãng CHOEARTH 2023] Thú bông Chubby Lung — Chongyue (重岳VER.)",
+      "price": 620000,
+      "original_price": 750000,
+      "category": "thubong",
+      "stock": 22,
+      "sold": 189,
+      "image": "",
+      "img_file": "bean4.webp",
+      "desc": "Phiên bản Chongyue (Trọng Nhạc) tiêu chuẩn năm 2023 — tái hiện chính xác đại ca khắc nghiêm của nhà Sui. Thân tròn phủ lông nhung xám đậm cao cấp, đôi sừng vàng đất đặc trưng, ánh mắt đỏ cam rực lửa uy nghiêm. Điểm nhấn là chuỗi hạt đỏ - vàng thủ công kèm tua rua xám dài buông thướt — chi tiết không thể nhầm lẫn của Trọng Nhạc. Chân trắng mập mạp cực kỳ đáng yêu. Kích thước ~20cm.",
+      "tags": [
+        "bán chạy"
+      ],
+      "nhan_vat": "Chongyue (重岳)",
+      "kich_thuoc": "~20cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p005",
+      "name": "[Chính hãng Bandai × Ichibansho] Thú bông Khổng Lồ Chubby Lung — Chongyue Big Plush",
+      "price": 2800000,
+      "original_price": 3500000,
+      "category": "thubong",
+      "stock": 5,
+      "sold": 41,
+      "image": "",
+      "img_file": "bean6.jpg",
+      "desc": "Phiên bản Chongyue KHỔNG LỒ — collab độc quyền Bandai Namco × Ichibansho, đủ lớn để ôm ngủ. Thân cầu xám khổng lồ với đôi sừng vàng to bản, chuỗi hạt đỏ - cam thủ công, tua rua xám dài. Đặc biệt: đuôi rồng dài quấn băng đỏ chi tiết cực kỳ ấn tượng, uốn lượn tự nhiên. Bông PP mật độ cao, giữ form vững, mềm mại ôm cực thích. Doctor nào cũng cần một chú Trọng Nhạc cỡ này trấn giữ căn phòng! Kích thước đầu ~35cm, tổng chiều dài ~80cm.",
+      "tags": [
+        "hot",
+        "mới"
+      ],
+      "nhan_vat": "Chongyue (重岳) — Big Plush",
+      "kich_thuoc": "Đầu ~35cm | Tổng ~80cm",
+      "thuong_hieu": "Bandai Namco × Ichibansho / Hypergryph"
+    },
+    {
+      "id": "p006",
+      "name": "[Chính hãng CHOEARTH] Gối Cổ Chữ U Chubby Lung — Nian (龙泡泡转转 生活之乐)",
+      "price": 480000,
+      "original_price": 580000,
+      "category": "phukien",
+      "stock": 25,
+      "sold": 76,
+      "image": "S/D",
+      "img_file": "bean7.jpg",
+      "desc": "Gối cổ chữ U phiên bản Nian (Niên) — thiết kế toàn thân rồng trắng đỏ uốn lượn ôm quanh cổ, đầu và đuôi Nian nhô ra hai bên cực kỳ ngộ nghĩnh. Gương mặt Nian với đốm đỏ trên trán và nụ cười tinh nghịch. Vải bông mềm mại, bông PP đàn hồi tốt, hỗ trợ cổ hiệu quả khi ngồi dài hoặc di chuyển. Ra mắt tại sự kiện Parade Party 朝陇山巡游派对. Lý tưởng cho hành trình dài hoặc làm gối ngủ bàn.",
+      "tags": [
+        "mới"
+      ],
+      "nhan_vat": "Nian (年)",
+      "kich_thuoc": "Vòng cổ tiêu chuẩn",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p007",
+      "name": "[Chính hãng CHOEARTH] Móc Khóa Chạy 跑跑龙泡泡 — Dusk & Shu (Có Cơ Chế Dây Kéo)",
+      "price": 280000,
+      "original_price": 350000,
+      "category": "mockey",
+      "stock": 30,
+      "sold": 132,
+      "image": "",
+      "img_file": "bean8.jpg",
+      "desc": "Móc khóa 跑跑龙泡泡 (Run Run Bean) — dòng sản phẩm cực kỳ được yêu thích với cơ chế dây kéo độc đáo: kéo dây là chú rồng 'chạy' về phía trước! Bộ gồm Dusk (xám xanh teal, mắt cam bừng sáng) và Shu (trắng vàng, mắt xanh long lanh). Kích thước mini ~8-10cm, dễ thương cực kỳ. Kèm móc khóa bi bạc chắc chắn. Hoàn thiện thêu tay tỉ mỉ, biểu cảm sống động. Lý tưởng để treo ba lô, túi xách, chìa khóa xe.",
+      "tags": [
+        "hot",
+        "bán chạy"
+      ],
+      "nhan_vat": "Dusk · Shu",
+      "kich_thuoc": "~8-10cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p008",
+      "name": "[Chính hãng CHOEARTH] Móc Khóa Chạy 跑跑龙泡泡 — Bộ 3: Dusk · Ling · Nian",
+      "price": 720000,
+      "original_price": 900000,
+      "category": "mockey",
+      "stock": 20,
+      "sold": 98,
+      "image": "",
+      "img_file": "bean9.webp",
+      "desc": "Bộ 3 móc khóa 跑跑龙泡泡 đầy đủ nhất — Dusk (xám, mắt cam dữ dội), Ling (trắng xanh, mắt tím to tròn say sưa) và Nian (trắng đỏ, mắt híp cười rạng rỡ). Mỗi nhân vật có biểu cảm khác nhau hoàn toàn. Cơ chế kéo dây cực vui: chú rồng lao về phía trước khi kéo. Vải bông mềm mịn, thêu mắt sắc nét, dây kéo bền. Mua bộ 3 tiết kiệm hơn mua lẻ. Đi kèm túi đựng nhỏ.",
+      "tags": [
+        "hot",
+        "sale"
+      ],
+      "nhan_vat": "Dusk · Ling · Nian",
+      "kich_thuoc": "~8-10cm mỗi con",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    },
+    {
+      "id": "p009",
+      "name": "[Chính hãng CHOEARTH 2026] Thú bông Chubby Lung — Chongyue (望VER.) Arknights 2026",
+      "price": 680000,
+      "original_price": 820000,
+      "category": "thubong",
+      "stock": 12,
+      "sold": 55,
+      "image": "",
+      "img_file": "bean10.webp",
+      "desc": "Phiên bản Chongyue 望VER. đặc biệt năm 2026 — màu sắc hoàn toàn mới với tông xám trắng nhạt thanh lịch, đôi sừng xám vàng đất kết hợp tinh tế. Chuỗi hạt đen - trắng thay thế cho bản cũ, tua rua xám nhẹ nhàng hơn. Đôi cánh nhỏ xám hai bên mang nét uy nghiêm mới lạ. Chân hồng phấn đáng yêu bất ngờ. Gương mặt 'vô tri' với miệng há to hình chữ U đặc trưng — xả stress cực đỉnh. Bản giới hạn Arknights 2026.",
+      "tags": [
+        "mới",
+        "hot"
+      ],
+      "nhan_vat": "Chongyue (望VER.)",
+      "kich_thuoc": "~20-25cm",
+      "thuong_hieu": "CHOEARTH 朝陇山 / Hypergryph"
+    },
+    {
+      "id": "p010",
+      "name": "[Chính hãng CHOEARTH 2026] Móc Khóa 小笼'泡' — Bộ 7 Nhân Vật Đầy Đủ (Hộp Dim Sum)",
+      "price": 1500000,
+      "original_price": 1900000,
+      "category": "mockey",
+      "stock": 8,
+      "sold": 67,
+      "image": "",
+      "img_file": "bean11.webp",
+      "desc": "Bộ sưu tập móc khóa 小笼'泡' 2026 đầy đủ nhất từ trước đến nay — 7 nhân vật: Chongyue望 · Chongyue重岳 · Ling · Shu · Yu · Nian · Dusk, mỗi nhân vật mang trang phục trắng tinh khôi phong cách dim sum cực kỳ dễ thương. Đóng trong hộp thiếc hình xửng hấp dim sum 朝陇山 độc đáo — vừa chơi vừa trưng bày. Kích thước mini ~6-8cm mỗi con, hoàn thiện thêu sắc nét. Bản giới hạn 2026, Doctor đừng bỏ lỡ!",
+      "tags": [
+        "mới",
+        "hot",
+        "bán chạy"
+      ],
+      "nhan_vat": "Chongyue望·重岳 · Ling · Shu · Yu · Nian · Dusk",
+      "kich_thuoc": "~6-8cm mỗi con | Hộp đóng gói đặc biệt",
+      "thuong_hieu": "CHOEARTH 朝陇山 / Hypergryph"
+    },
+    {
+      "id": "p011",
+      "name": "[Chính hãng CHOEARTH 2024] Gối Ôm Dài Chubby Lung — Nian 'Dài Thượt' (那么长龙泡泡)",
+      "price": 890000,
+      "original_price": 1100000,
+      "category": "phukien",
+      "stock": 10,
+      "sold": 88,
+      "image": "",
+      "img_file": "bean12.webp",
+      "desc": "Gối ôm dài phiên bản Nian 2024 — có đến 2 size để Doctor lựa chọn: '那么长龙泡泡' (Dài thượt ~100cm) và '没那么长龙泡泡' (Vừa phải ~60cm). Thiết kế toàn thân rồng Nian trắng đỏ trải dài, họa tiết vảy rồng đỏ thêu nổi đặc sắc ở thân giữa, đầu và đuôi cong vút hai bên. Gương mặt Nian mắt lim dim nghịch ngợm. Bông PP mật độ cao êm ái, vải bông mềm mịn không gây kích ứng da. Vừa làm gối ôm ngủ, vừa trang trí sofa siêu cute.",
+      "tags": [
+        "mới",
+        "bán chạy"
+      ],
+      "nhan_vat": "Nian (年)",
+      "kich_thuoc": "Size lớn ~100cm | Size nhỏ ~60cm",
+      "thuong_hieu": "CHOEARTH / Hypergryph"
+    }
+  ],
+  "carts": {
+    "Longcelot": [
+      {
+        "pid": "p001",
+        "name": "[Chính hãng] Thú bông Chubby Lung — Bộ 3 Nian · Chongyue · Dusk (龙泡泡毛绒玩偶 #17)",
+        "price": 980000,
+        "imgFile": "bean1_.webp",
+        "qty": 1
+      }
+    ]
+  }
+}
